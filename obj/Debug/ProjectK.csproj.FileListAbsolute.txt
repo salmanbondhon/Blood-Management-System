@@ -1,0 +1,17 @@
+D:\Visual Studio\C#\ProjectK\bin\Debug\ProjectK.exe.config
+D:\Visual Studio\C#\ProjectK\bin\Debug\ProjectK.exe
+D:\Visual Studio\C#\ProjectK\bin\Debug\ProjectK.pdb
+D:\Visual Studio\C#\ProjectK\obj\Debug\ProjectK.csproj.AssemblyReference.cache
+D:\Visual Studio\C#\ProjectK\obj\Debug\ProjectK.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\C#\ProjectK\obj\Debug\ProjectK.Properties.Resources.resources
+D:\Visual Studio\C#\ProjectK\obj\Debug\ProjectK.csproj.GenerateResource.cache
+D:\Visual Studio\C#\ProjectK\obj\Debug\ProjectK.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#\ProjectK\obj\Debug\ProjectK.exe
+D:\Visual Studio\C#\ProjectK\obj\Debug\ProjectK.pdb
+D:\Visual Studio\C#\ProjectK\obj\Debug\ProjectK.LogIn.resources
+D:\Visual Studio\C#\ProjectK\obj\Debug\ProjectK.Admin.resources
+D:\Visual Studio\C#\ProjectK\obj\Debug\ProjectK.BloodDonor.resources
+D:\Visual Studio\C#\ProjectK\obj\Debug\ProjectK.BloodReceiver.resources
+D:\Visual Studio\C#\ProjectK\obj\Debug\ProjectK.Signup.resources
+D:\Visual Studio\C#\ProjectK\obj\Debug\ProjectK.Userpanel.resources
+D:\Visual Studio\C#\ProjectK\obj\Debug\ProjectK.AdminPanel.resources

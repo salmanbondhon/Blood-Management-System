@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "66019f89-3188-4410-ba5b-b332ed25e4a1": {
+      "ProjectGuid": "66019f89-3188-4410-ba5b-b332ed25e4a1",
+      "DisplayName": "ProjectK",
+      "ColorIndex": 0
+    },
+    "9b8d28f6-1680-4b1a-9db5-27538a259151": {
+      "ProjectGuid": "9b8d28f6-1680-4b1a-9db5-27538a259151",
+      "DisplayName": "Signup",
+      "ColorIndex": 1
+    },
+    "238bfe2f-2f6d-4bc8-96b2-2be7a1ae3396": {
+      "ProjectGuid": "238bfe2f-2f6d-4bc8-96b2-2be7a1ae3396",
+      "DisplayName": "Admin",
+      "ColorIndex": 2
+    },
+    "e0cec252-5cf2-4dc0-96ee-32113ba0e272": {
+      "ProjectGuid": "e0cec252-5cf2-4dc0-96ee-32113ba0e272",
+      "DisplayName": "AfterLogin",
+      "ColorIndex": 3
+    },
+    "bad4e82e-8f74-4723-ab50-d69f0ceef0f6": {
+      "ProjectGuid": "bad4e82e-8f74-4723-ab50-d69f0ceef0f6",
+      "DisplayName": "BloodReceiver",
+      "ColorIndex": 4
+    },
+    "53dfd392-00ba-44d2-aa47-bb1bea1aa33e": {
+      "ProjectGuid": "53dfd392-00ba-44d2-aa47-bb1bea1aa33e",
+      "DisplayName": "BloodDoner",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
